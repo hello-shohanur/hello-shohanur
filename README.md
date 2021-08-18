@@ -19,6 +19,8 @@
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohanurr3401/)**
 
+- 📧  info.shohan@yahoo.com
+
 
 
 ## 🚀 Programming Languages:
