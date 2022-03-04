@@ -11,9 +11,9 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **System Development**
+- 💻 I’m currently working on **Research and Software Development**
 
-- 🌱 I’m currently learning **Algorithm and Data Communication**
+- 🌱 I’m currently learning **Algorithm, Cyber Security and Artificial intelligence**
 
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
