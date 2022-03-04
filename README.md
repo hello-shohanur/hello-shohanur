@@ -17,9 +17,9 @@
 
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
-- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohanurr3401/)**
+- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohan3401/)**
 
-- 📧  info.shohan@yahoo.com
+- 📧  help.shohan@gmail.com
 
 
 
