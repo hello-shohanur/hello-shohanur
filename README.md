@@ -37,16 +37,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/shohanurr3401/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Shohanur Rahman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shohanurr3401&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/shohan3401/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Shohanur Rahman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan3401&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/shohanurr3401/github-readme-stats"><img alt="Md Shohanur Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shohanurr3401&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shohanurr3401/github-readme-stats"><img alt="Md Shohanur Rahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohanurr3401&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/shohan3401/github-readme-stats"><img alt="Md Shohanur Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shohan3401&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shohan3401/github-readme-stats"><img alt="Md Shohanur Rahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan3401&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,7 +55,7 @@
 
 <br/>
 
-<a href="https://github.com/shohanurr3401/github-readme-activity-graph"><img alt="Md Shohanur Rahman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shohanurr3401&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shohan3401/github-readme-activity-graph"><img alt="Md Shohanur Rahman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shohan3401&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -63,6 +63,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shohanurr3401">
+    <img src="https://komarev.com/ghpvc/?username=shohan3401">
 </a>
-<a href="https://github.com/shohanurr3401?tab=followers"><img src="https://img.shields.io/github/followers/shohanurr3401?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shohan3401?tab=followers"><img src="https://img.shields.io/github/followers/shohan3401?label=Followers&style=social" alt="GitHub Badge"></a>
