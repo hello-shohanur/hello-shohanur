@@ -11,7 +11,7 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Research and Software Development**
+- 💻 I’m currently working on **Research and AI project**
 
 - 🌱 I’m currently learning **Algorithm, Cyber Security and Artificial intelligence**
 
