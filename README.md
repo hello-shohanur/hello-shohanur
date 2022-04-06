@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="#"> <img width="20%" src="https://drive.google.com/file/d/1ERZAZABwsd6BbK4rdXtdJD7QKMaWPP2c/view?usp=sharing"  /></a> 
+<a href="#"> <img width="20%" src="https://avatars.githubusercontent.com/u/70064209?s=400&u=17244486d720a04bedf89b9a35f07f984f52317f&v=4"  /></a> 
 
 </p>
 
