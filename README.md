@@ -19,7 +19,7 @@
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohan3401/)**
 
-- 📧  help.shohan@gmail.com
+- 📧  info.shohan@yahoo.com
 
 
 
