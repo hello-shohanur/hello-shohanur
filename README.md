@@ -18,7 +18,7 @@
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohan-cse/)**
 
-- 📧  info.shohan@yahoo.com
+- 📧  info.shohan.cse@gmail.com
 
 
 
