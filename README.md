@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="#"> <img width="20%" src="https://i.imgur.com/yxx2Sf9.jpeg"  /></a> 
+<a href="#"> <img width="20%" src="https://i.imgur.com/ePiFncj.jpeg"  /></a> 
 
 </p>
 
@@ -54,10 +54,6 @@
 
 <br/>
 
-<a href="https://github.com/shohan-cse/github-readme-activity-graph"><img alt="Md Shohanur Rahman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shohan-cse&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
