@@ -54,8 +54,14 @@
 
 <br/>
 
-## 🍃 Global Ranking 🔥🔥
+## 🍃 Global Ranking 🔥
 <a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/global.svg" /></a>
+
+
+
+## 🍂 Country Ranking 🔥
+<a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/country.svg" /></a>
+
 
 
 ## 💟 Connect with me 
@@ -65,6 +71,7 @@
 <a href = "https://www.youtube.com/c/shohan-cse"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+
 
 
 ## ❤ Views and Followers 
