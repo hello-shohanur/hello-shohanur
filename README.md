@@ -6,13 +6,13 @@
 <h2 align="center" style="color:lightblue"> السلام عليكم </h2>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohan</h1>
 
-<h3 align="center">I'm a student, ML learner and Cyber Security Specialist.</h3>
+<h3 align="center">I'm a Security Engineer specializing in Penetration Testing and Forensics.</h3>
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Research and AI project**
+- 💻 I’m currently working on **Research and Penetration Testing**
 
-- 🌱 I’m currently learning **Algorithm, Cyber Security and Artificial intelligence**
+- 🌱 I’m currently learning **Algorithm, Network Security and Machine Learning**
 
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
@@ -22,7 +22,7 @@
 
 
 
-## 🚀 Programming Languages:
+## 🚀 Programming Languages
 
 <p align="left"> 
     <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
@@ -41,7 +41,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats 💚
 
   <br/>
     <a href="https://github.com/shohan-cse/github-readme-stats"><img alt="Md Shohanur Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shohan-cse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -54,8 +54,11 @@
 
 <br/>
 
+## 🍃 Global Ranking 🔥🔥
+<a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/global.svg" /></a>
 
-## Connect with me:
+
+## 💟 Connect with me 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shohan-cse/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -63,7 +66,8 @@
 
 </p>
 
-## ❤ Views and Followers
+
+## ❤ Views and Followers 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shohan-cse">
 </a>
