@@ -8,6 +8,7 @@
 
 <h3 align="center">I'm a Security Engineer specializing in Penetration Testing and Forensics.</h3>
 
+
 ## 🍀About Me
 
 - 💻 I’m currently working on **Research and Penetration Testing**
@@ -43,23 +44,19 @@
 
 ## 📊 My Github Stats 💚
 
-  <br/>
-    <a href="https://github.com/shohan-cse/github-readme-stats"><img alt="Md Shohanur Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shohan-cse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shohan-cse/github-readme-stats"><img alt="Md Shohanur Rahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-cse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shohan-cse&show_icons=true&theme=gotham" alt="shohan-cse" />
 
 
-<br/>
 
-<br/>
 
 ## 🍃 Global Ranking 🔥
+<p align="center">
 <a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/global.svg" /></a>
 
 
 
 ## 🍂 Country Ranking 🔥
+<p align="center">
 <a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/country.svg" /></a>
 
 
