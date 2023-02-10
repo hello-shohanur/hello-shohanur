@@ -11,7 +11,7 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Research and Penetration Testing**
+- 💻 I’m currently working on **Research and Cyber Security**
 
 - 🌱 I’m currently learning **Algorithm, Network Security and Machine Learning**
 
@@ -19,7 +19,7 @@
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohan-cse/)**
 
-- 📧  info.shohan.cse@gmail.com
+- 📧  info.shohan@yahoo.com
 
 
 
