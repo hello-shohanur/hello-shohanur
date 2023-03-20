@@ -8,14 +8,14 @@
 <h2 align="center" style="color:lightblue"> السلام عليكم </h2>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohan</h1>
 
- <h3 align="center">I'm a security engineer specializing in penetration pesting and forensics.</h3>
+ <h3 align="center"> BSc in CSE | Researcher | Analyst </h3>
 
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Research and Cyber Security**
+- 💻 I’m currently working on **Research**
 
-- 🌱 I’m currently learning **Algorithm, Network Security and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
