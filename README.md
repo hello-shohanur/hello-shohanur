@@ -40,21 +40,25 @@
 
 <p align="center">
     <a href="https://github.com/shohan-cse/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Shohanur Rahman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan-cse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="The streak of Shohan" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan-cse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 
 ## 📊 My Github Stats 💚
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shohan-cse&show_icons=true&theme=gotham" alt="shohan-cse" />
 
 
+## 🍒 Most Uses Programming Languages 🌱
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohan-cse&show_icons=true&locale=en&layout=compact&theme=dark&card_width=475" alt="shohan-cse" />
+</p>
 
 
 ## 🍃 Global Ranking 🔥
 <p align="center">
 <a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/global.svg" /></a>
-
 
 
 ## 🍂 Country Ranking 🔥
