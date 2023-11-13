@@ -8,15 +8,15 @@
 <h2 align="center" style="color:lightblue"> السلام عليكم </h2>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohan</h1>
 
- <h3 align="center"> B.Sc. in Computer Science and Engineering</h3>
+ <h3 align="center"> BSc in Computer Science and Engineering</h3>
 
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Research**
-
+- 💻 I’m currently working on **Software Development**
+<!--
 - 🌱 I’m currently learning **Machine Learning**
-
+-->
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohan-cse/)**
