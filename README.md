@@ -13,7 +13,7 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Software Development**
+- 💻 I’m currently working on **Machine Learning**
 <!--
 - 🌱 I’m currently learning **Machine Learning**
 -->
