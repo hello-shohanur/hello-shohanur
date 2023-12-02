@@ -1,19 +1,19 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shohancse)
 
 <p align="center"> 
-<a href="#"> <img width="20%" src="https://i.imgur.com/N3MCH2B.jpeg"  /></a>
+<a href="#"> <img width="20%" src="https://i.imgur.com/U3zWRCU.jpeg"  /></a>
 
 </p>
 
 <h2 align="center" style="color:lightblue"> السلام عليكم </h2>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohan</h1>
 
- <h3 align="center"> BSc in Computer Science and Engineering</h3>
+ <h3 align="center"> Software Engineer </h3>
 
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Machine Learning**
+- 💻 I’m currently working on **Sotware Development**
 <!--
 - 🌱 I’m currently learning **Machine Learning**
 -->
