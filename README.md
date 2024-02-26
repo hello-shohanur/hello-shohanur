@@ -13,15 +13,15 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Sotware Development**
+- 💻 I’m currently working on **Machine Learning**
 <!--
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 -->
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohan-cse/)**
 
-- 📧  info.shohan@yahoo.com
+- 📧  hi.msrahman@gmail.com
 
 
 
