@@ -19,7 +19,7 @@
  
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
-- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/shohan-cse/)**
+- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/hello-shohanur/)**
 
 - 📧  hi.msrahman@gmail.com
 
@@ -38,38 +38,38 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/shohan-cse/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="The streak of Shohan" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan-cse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/hello-shohanur/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="The streak of Shohan" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-shohanur&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 
 ## 📊 My Github Stats 💚
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shohan-cse&show_icons=true&theme=gotham" alt="shohan-cse" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hello-shohanur&show_icons=true&theme=gotham" alt="hello-shohanur" />
 
 
 ## 🍒 Most Uses Programming Languages 🌱
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohan-cse&show_icons=true&locale=en&layout=compact&theme=dark&card_width=475" alt="shohan-cse" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hello-shohanur&show_icons=true&locale=en&layout=compact&theme=dark&card_width=475" alt="hello-shohanur" />
 </p>
 
 
 ## 🍃 Global Ranking 🔥
 <p align="center">
-<a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/hello-shohanur"><img alt="Check out hello-shohanur's profile on stardev.io" src="https://stardev.io/developers/hello-shohanur/badge/languages/global.svg" /></a>
 
 
 ## 🍂 Country Ranking 🔥
 <p align="center">
-<a href="https://stardev.io/developers/shohan-cse"><img alt="Check out shohan-cse's profile on stardev.io" src="https://stardev.io/developers/shohan-cse/badge/languages/country.svg" /></a>
+<a href="https://stardev.io/developers/hello-shohanur"><img alt="Check out hello-shohanur's profile on stardev.io" src="https://stardev.io/developers/hello-shohanur/badge/languages/country.svg" /></a>
 
 
 
 ## 💟 Connect with me 
 <p align="left">
 
-<a href = "https://www.youtube.com/@shohan-cse"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/@hello-shohanur"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
@@ -77,7 +77,7 @@
 
 ## ❤ Views and Followers 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shohan-cse">
+    <img src="https://komarev.com/ghpvc/?username=hello-shohanur">
 </a>
-<a href="https://github.com/shohan-cse?tab=followers"><img src="https://img.shields.io/github/followers/shohan-cse?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/hello-shohanur?tab=followers"><img src="https://img.shields.io/github/followers/hello-shohanur?label=Followers&style=social" alt="GitHub Badge"></a>
 
