@@ -1,7 +1,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shohancse)
 
 <p align="center"> 
-<a href="#"> <img width="20%" src="https://i.imgur.com/U3zWRCU.jpeg"  /></a>
+<a href="#"> <img width="20%" src="https://i.imgur.com/xA8k8ba.jpeg"  /></a>
 
 </p>
 
