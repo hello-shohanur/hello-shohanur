@@ -8,14 +8,14 @@
 <h2 align="center" style="color:lightblue"> السلام عليكم </h2>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohan</h1>
 
- <h3 align="center"> Machine Learning Engineer </h3>
+ <h3 align="center"> Software QA Enineer | Researcher </h3>
 
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Machine Learning**
+- 💻 I’m currently working on **Enterprise Software Testing**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Research in Software Testing using ML**
  
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
