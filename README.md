@@ -5,8 +5,7 @@
 
 </p>
 
-<h2 align="center" style="color:lightblue"> السلام عليكم </h2>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohanur</h1>
 
  <h3 align="center"> Software QA Enineer | Researcher </h3>
 
