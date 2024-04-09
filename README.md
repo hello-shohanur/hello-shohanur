@@ -1,19 +1,17 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shohancse)
 
-<!--
 <p align="center"> 
-<a href="#"> <img width="20%" src="----------------"  /></a>
--->
+<a href="#"> <img width="20%" src="https://i.imgur.com/XZ6ht9I.png"  /></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohanur</h1>
 
- <h3 align="center"> Machine Learning | Software Testing | Researcher </h3>
+ <h3 align="center"> Machine Learning | Deep Learning | Research </h3>
 
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Enterprise Software Testing**
+- 💻 I’m currently working on **Enterprise Software Testing and Machine Learning**
 
 - 🌱 I’m currently learning **Research in Software Testing using ML**
  
