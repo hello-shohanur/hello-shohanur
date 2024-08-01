@@ -11,9 +11,9 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Enterprise Software Testing and Machine Learning**
+- 💻 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Research in Software Testing using ML**
+- 🌱 I’m currently learning **Research in Health Informatics using ML**
  
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
