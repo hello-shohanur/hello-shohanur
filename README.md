@@ -1,9 +1,10 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shohancse)
 
+<!--
 <p align="center"> 
 <a href="#"> <img width="20%" src="https://i.imgur.com/30v9Cq3.jpg"  /></a>
 </p>
-
+-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shohanur</h1>
 
  <h3 align="center"> ML Researcher </h3>
