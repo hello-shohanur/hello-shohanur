@@ -20,7 +20,7 @@
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/hello-shohanur/)**
 
-- 📧  hi.msrahman@gmail.com
+- 📧  hello.msrahman@outlook.com
 
 
 
