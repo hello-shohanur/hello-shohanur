@@ -53,6 +53,7 @@
 
 
 ## 🍃 Global Ranking 🔥
+<!--
 <p align="center">
 <a href="https://stardev.io/developers/hello-shohanur"><img alt="Check out hello-shohanur's profile on stardev.io" src="https://stardev.io/developers/hello-shohanur/badge/languages/global.svg" /></a>
 
@@ -61,7 +62,7 @@
 <p align="center">
 <a href="https://stardev.io/developers/hello-shohanur"><img alt="Check out hello-shohanur's profile on stardev.io" src="https://stardev.io/developers/hello-shohanur/badge/languages/country.svg" /></a>
 
-
+-->
 
 ## 💟 Connect with me 
 <p align="left">
