@@ -61,15 +61,13 @@
 <p align="center">
 <a href="https://stardev.io/developers/hello-shohanur"><img alt="Check out hello-shohanur's profile on stardev.io" src="https://stardev.io/developers/hello-shohanur/badge/languages/country.svg" /></a>
 
--->
-
 ## 💟 Connect with me 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/hello-shohanur/"><img src="https://img.icons8.com/?size=35&id=13930&format=png&color=000000.jpg"/></a>
 
 </p>
-
+-->
 
 
 ## ❤ Views and Followers 
