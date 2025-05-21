@@ -51,9 +51,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hello-shohanur&show_icons=true&locale=en&layout=compact&theme=dark&card_width=475" alt="hello-shohanur" />
 </p>
 
-
-## 🍃 Global Ranking 🔥
 <!--
+## 🍃 Global Ranking 🔥
 <p align="center">
 <a href="https://stardev.io/developers/hello-shohanur"><img alt="Check out hello-shohanur's profile on stardev.io" src="https://stardev.io/developers/hello-shohanur/badge/languages/global.svg" /></a>
 
